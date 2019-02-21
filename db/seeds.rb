@@ -5,6 +5,12 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-Ingredient.create(name: "lemon")
-Ingredient.create(name: "ice")
-Ingredient.create(name: "mint leaves")
+Cocktail.create(descrption: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, libero.')
+Cocktail.create(descrption: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, accusamus.')
+Cocktail.create(descrption: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, sunt!')
+
+
+
+
+
+
